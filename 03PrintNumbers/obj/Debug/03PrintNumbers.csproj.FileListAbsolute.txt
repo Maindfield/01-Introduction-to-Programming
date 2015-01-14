@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\03PrintNumbers\bin\Debug\03PrintNumbers.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\03PrintNumbers\bin\Debug\03PrintNumbers.exe
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\03PrintNumbers\bin\Debug\03PrintNumbers.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\03PrintNumbers\obj\Debug\03PrintNumbers.exe
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\03PrintNumbers\obj\Debug\03PrintNumbers.pdb

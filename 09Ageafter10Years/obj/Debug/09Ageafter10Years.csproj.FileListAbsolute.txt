@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09Ageafter10Years\bin\Debug\09Ageafter10Years.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09Ageafter10Years\bin\Debug\09Ageafter10Years.exe
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09Ageafter10Years\bin\Debug\09Ageafter10Years.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09Ageafter10Years\obj\Debug\09Ageafter10Years.exe
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09Ageafter10Years\obj\Debug\09Ageafter10Years.pdb

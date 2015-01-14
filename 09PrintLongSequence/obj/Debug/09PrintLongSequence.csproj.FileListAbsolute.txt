@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\09PrintLongSequence\bin\Debug\09PrintLongSequence.exe.config

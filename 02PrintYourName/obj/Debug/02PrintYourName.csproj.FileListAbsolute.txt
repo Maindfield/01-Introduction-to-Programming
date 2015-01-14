@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\bin\Debug\02PrintYourName.exe.config
