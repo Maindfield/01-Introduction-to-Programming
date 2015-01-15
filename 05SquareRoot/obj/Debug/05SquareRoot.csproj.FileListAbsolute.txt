@@ -1,1 +1,6 @@
 c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+C:\Users\Georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\bin\Debug\05SquareRoot.exe
+C:\Users\Georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\bin\Debug\05SquareRoot.pdb
+C:\Users\Georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\obj\Debug\05SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\obj\Debug\05SquareRoot.exe
+C:\Users\Georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\05SquareRoot\obj\Debug\05SquareRoot.pdb
