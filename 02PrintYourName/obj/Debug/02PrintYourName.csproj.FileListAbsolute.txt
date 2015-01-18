@@ -1,1 +1,5 @@
 c:\users\georgi\documents\visual studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\bin\Debug\02PrintYourName.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\bin\Debug\02PrintYourName.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\bin\Debug\02PrintYourName.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\obj\Debug\02PrintYourName.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\IntroductiontoProgramming\02PrintYourName\obj\Debug\02PrintYourName.pdb
